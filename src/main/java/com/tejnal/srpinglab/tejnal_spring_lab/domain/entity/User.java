@@ -27,7 +27,7 @@ public class User {
     private List<Post> posts;
 
     //Default constructor is required to have Hibernate initialize the entity;
-     User() {
+     protected User() {
 
 
     }
