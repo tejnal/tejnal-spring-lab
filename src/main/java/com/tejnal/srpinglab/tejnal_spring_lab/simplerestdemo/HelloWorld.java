@@ -1,5 +1,6 @@
 package com.tejnal.srpinglab.tejnal_spring_lab.simplerestdemo;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.stereotype.Component;
 
 @Component
